@@ -3,6 +3,15 @@
 ### Purpose:
 Practice utilizing false color imagery to visualize the Eaton and Palisades fire scars from February 2025. 
 
+### Repo Structure: 
+```
+├── README.md
+├── data
+│   ├── Eaton_Perimeter_20250121
+│   ├── Palisades_Perimieter_20250121
+│   └── landsat8-2025-02-23-palisades-eaton.nc
+└── hwk4-task2-false-color.ipynb
+```
 ### Authors: 
 Mark Oregel
 
