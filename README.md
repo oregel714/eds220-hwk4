@@ -5,6 +5,7 @@ Practice utilizing false color imagery to visualize the Eaton and Palisades fire
 
 ### Repo Structure: 
 ```
+eds220-hwk4
 ├── README.md
 ├── data
 │   ├── Eaton_Perimeter_20250121
